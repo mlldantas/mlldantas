@@ -10,3 +10,5 @@ A little bit about me (using github's suggestions):
 - 📫 How to reach me: mlldantas at protonmail dot com
 - 😄 Pronouns: Malu
 - ⚡ Fun fact: I can bend my thumb 90 degrees. :stuck_out_tongue_closed_eyes: 
+
+![Malu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlldantas&count_private=true)

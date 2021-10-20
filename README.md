@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mlldantas/mlldantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A little bit about me (using github's suggestions):
 
 - 🔭 I’m currently working on galactic archeology and evolution of galaxies!
@@ -13,4 +10,3 @@ A little bit about me (using github's suggestions):
 - 📫 How to reach me: mlldantas at protonmail dot com
 - 😄 Pronouns: Malu
 - ⚡ Fun fact: I can bend my thumb 90 degrees. :stuck_out_tongue_closed_eyes: 
--->

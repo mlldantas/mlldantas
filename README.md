@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Generic badge](https://img.shields.io/badge/Personal-website-<COLOR>.svg)](https://www.mlldantas.com/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mlldantas)
+
 A little bit about me (using github's suggestions):
 
 - 🔭 I’m currently working on galactic archeology and evolution of galaxies!

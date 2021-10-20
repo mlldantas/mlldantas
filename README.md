@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Personal-website-black.svg)](https://www.mlldantas.com/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mlldantas)
-[![Generic badge](https://img.shields.io/badge/ResearchGate-profile-black])(https://www.researchgate.net/profile/Maria-Luiza-Linhares-Dantas)
+[![Generic badge](https://img.shields.io/badge/ResearchGate-profile-black)](https://www.researchgate.net/profile/Maria-Luiza-Linhares-Dantas)
 
 A little bit about me (using github's suggestions):
 

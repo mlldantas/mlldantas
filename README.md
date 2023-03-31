@@ -7,7 +7,7 @@
 A little bit about me (using github's suggestions):
 
 - 🔭 I’m currently working on galactic archeology and evolution of galaxies!
-- 🌱 I’m currently learning julia
+- 🌱 I’m currently learning Julia
 - 👯 I’m looking to collaborate on cool projects
 - 🤔 I’m looking for help with so many things, I can't list here! 😃
 - 💬 Ask me about anything related to python, julia, and R. I'm not sure I'll know the answer, but I'll do my best to help. 

@@ -7,12 +7,18 @@
 A little bit about me (using github's suggestions):
 
 - 🔭 I’m currently working on galactic archeology and evolution of galaxies!
-- 🌱 I’m currently learning julia
+- 🌱 I’m currently learning Julia
 - 👯 I’m looking to collaborate on cool projects
 - 🤔 I’m looking for help with so many things, I can't list here! 😃
 - 💬 Ask me about anything related to python, julia, and R. I'm not sure I'll know the answer, but I'll do my best to help. 
 - 📫 **E-mail: mlldantas at protonmail dot com**
-- 😄 Pronouns: Malu
-- ⚡ Fun fact: I can bend my thumb 90 degrees. :stuck_out_tongue_closed_eyes: 
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I can bend my thumb 90 degrees. :stuck_out_tongue_closed_eyes:
+- ☕ If you wish to collaborate with my work, you can [buy me a coffee](https://www.buymeacoffee.com/mlldantas). 
 
-![Malu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlldantas&count_private=true)
+![Malu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlldantas&count_private=true&theme=calm)
+
+<!--- theme onedark --->
+<!--- theme panda --->
+<!--- theme calm --->
+<!--- theme radical --->
